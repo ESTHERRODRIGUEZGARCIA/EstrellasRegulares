@@ -1,6 +1,6 @@
 #ejercicio Estrellas regulares
 
-from turtle import *
+import turtle
 
 n = int(input("Introduzca el número de puntas de la estrella: "))
 
