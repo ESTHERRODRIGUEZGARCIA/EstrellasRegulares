@@ -1,5 +1,6 @@
 # EstrellasRegulares
 Voy a realizar la Tarea Las Estrellas Regulares.
+
 Mi dirección de GitHub para este repositorio es la siguiente: https://github.com/ESTHERRODRIGUEZGARCIA/EstrellasRegulares.git
 
 El diagrama de flujo del código se muestra a continuación:
