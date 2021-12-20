@@ -1,2 +1,3 @@
 #ejercicio Estrellas regulares
-print("Tarea Las Estrellas Regulares. ")
+
+from turtle import *
