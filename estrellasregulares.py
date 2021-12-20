@@ -3,7 +3,9 @@
 from turtle import *
 
 def estrella(n):
-    def calculo_angulo(): 
-        angulo = 0
-        if n 
-
+    def mcm(x,y):
+        while y != 0:
+            x, y = y, x % y
+            return x
+        
+    
