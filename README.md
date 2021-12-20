@@ -1,12 +1,13 @@
 # EstrellasRegulares
 Voy a realizar la Tarea Las Estrellas Regulares.
 
+El diagrama de flujo del código se muestra a continuación:
+
 ![image](https://user-images.githubusercontent.com/91721860/146840978-e7bfad41-e14f-4ecb-a0a0-3ac5bb39e5dc.png)
 
 El código que he utilizado para realizar este ejercicio es el siguiente:
 
 ````
-
 #ejercicio Estrellas regulares
 
 import turtle
