@@ -8,4 +8,7 @@ def estrella(n):
             x, y = y, x % y
             return x
         
-    
+    def angulo():
+        angulo = 0
+        if n % 4 == 0:
+            
