@@ -2,4 +2,4 @@
 
 import turtle
 
-
+def estrella(puntas, lado = 150):
