@@ -17,7 +17,7 @@ def estrella(n):
         return angulos
         
 turtle.speed(0)
-for _ in range(n):
+for _ in range (n):
     turtle.right(angulo())
     turtle.fordward(200)
 turtle.done()
