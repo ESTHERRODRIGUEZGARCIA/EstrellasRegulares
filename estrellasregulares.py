@@ -23,4 +23,4 @@ def calculo_estrella(esquinas, lado = 150):
         turtle.left(angulo)
         return
 
-
+calculo_estrella(20)
