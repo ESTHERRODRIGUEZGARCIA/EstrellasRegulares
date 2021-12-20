@@ -22,4 +22,4 @@ for _ in range(n):
     turtle.fordward(200)
 turtle.done()
 
-
+estrella(n)
