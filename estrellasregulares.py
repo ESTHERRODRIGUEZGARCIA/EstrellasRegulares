@@ -2,7 +2,7 @@
 
 import turtle
 
-def estrella(esquinas, lado = 150):
+def calculo_estrella(esquinas, lado = 150):
 
     def mcd(x,y):
         while y != 0:
@@ -17,4 +17,10 @@ def estrella(esquinas, lado = 150):
         if mcd (esquinas, i) == 1:
             angulo = 360 / esquinas * i 
             break
+
+    for _ in range (esquinas):
+        turtle.fordwar(lado)
+        turtle.left(angulo)
+        return
+
 
